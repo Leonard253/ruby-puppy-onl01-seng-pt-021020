@@ -18,4 +18,3 @@ def self.clear_all
       puts d.name
     end
   end
-end
