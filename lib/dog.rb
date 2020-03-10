@@ -14,7 +14,7 @@ def self.clear_all
   end
   
   def self.all
-    @@all.each do |d|
+    @@all.each 
       puts d.name
     end
   end
